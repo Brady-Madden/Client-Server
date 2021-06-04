@@ -1,5 +1,5 @@
 # Client-Server
-CSI416: Project 1
+CSI416: Computer Communication Networks
 
 How to Run:
 1. Python IDLE: 
